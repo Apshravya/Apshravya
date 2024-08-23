@@ -4,6 +4,9 @@
 I am a master's student specializing in CyberSecurity and Project Management, driven by a deep passion for technology and equipped with strong management skills. My commitment to tackling complex challenges defines my approach to learning and professional growth.
 
 ## Objective
+
+My experience as a Cybersecurity Analyst at IBM has ignited a deep passion for cybersecurity, sharpening both my technical and management skills. I am now eager to advance in this field, leveraging my expertise to make a significant impact.
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
