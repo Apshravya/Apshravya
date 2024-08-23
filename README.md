@@ -1,6 +1,7 @@
 ## Hello, I'm Shravya
 <a href="https://www.linkedin.com/in/shravya-agala-padmegowda/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
+I am a current master's student majoring in CyberSecurity and Project Management with a profound interest in technology with good management skills and a dedication to solving complex problems.
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
