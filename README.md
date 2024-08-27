@@ -9,5 +9,6 @@ My experience as a Cybersecurity Analyst at IBM has ignited a deep passion for c
 
 ## Skills
 
+IAM | SailPoint | Information Security | CyberArk | AD | RSA AM | RSA Archer | OKTA | R | C# | Python | MySQL • Azure | Cloud Computing | Service Now | SIEM | Confluence | Data Privacy | Jira | Gantt Project | Microsoft Project | Agile
 
 
